@@ -41,12 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Desk
-    uniqueID: 1932699493
+  - name: Hands
+    uniqueID: 2400731651
     locked: 0
-  - name: Chair back
+  - name: Chair Main
+    uniqueID: 2016704379
+    locked: 0
+  - name: Chair Back
     uniqueID: 311932703
     locked: 0
   - name: Head
     uniqueID: 1863268951
+    locked: 0
+  - name: Legs
+    uniqueID: 3158762261
     locked: 0
